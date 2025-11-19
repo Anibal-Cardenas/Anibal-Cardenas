@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hola, soy Anibal Cardenas 👋
 
-<!--
-**Anibal-Cardenas/Anibal-Cardenas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante de **Ingeniería de Software (10mo Ciclo)**, con un perfil técnico enfocado en el **Desarrollo Backend (Java/PHP)** y el **Análisis de Datos (SQL)**.
 
-Here are some ideas to get you started:
+Me apasiona resolver problemas complejos mediante la **lógica de programación** y la construcción de sistemas eficientes, integrando código sólido con bases de datos relacionales optimizadas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 **Actualmente estoy profundizando en:**
+- Desarrollo de aplicaciones y lógica de negocio con **Java (POO)**.
+- Integración de sistemas Web con **Bases de Datos Relacionales (SQL)**.
+
+🛠 **Mis Tecnologías y Fundamentos:**
+- **Lenguajes:** **Java**, PHP, Python.
+- **Base de Datos:** **SQL Avanzado** (MySQL), Modelado de Datos, Optimización de consultas.
+- **Conceptos Clave:** Estructuras de Datos, Algoritmos, Análisis Funcional, Business Intelligence.
+
+📫 **Contáctame:**
+- www.linkedin.com/in/anibal-piero-cardenas-paredes-581094334
+- anibalc216@gmail.com
